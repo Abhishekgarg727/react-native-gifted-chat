@@ -4,7 +4,7 @@ import { StyleSheet, Text, TouchableOpacity, View, ViewPropTypes } from 'react-n
 import Color from './Color';
 
 export default function Send({ text, containerStyle, onSend, children, textStyle, label }) {
-  if (text.trim().length > 0) {
+  if (alwaysShowSend || text.trim().length > 0) {
     return (
       <TouchableOpacity
         style={[styles.container, containerStyle]}
