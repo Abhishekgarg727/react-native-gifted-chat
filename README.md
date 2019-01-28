@@ -1,6 +1,11 @@
+Customised using my this bolierplate -- Abhishek Garg
+<p align="center" >
+<a href="https://ibb.co/54bLCdX"><img src="https://i.ibb.co/NCcKfXg/gifted-chat-ui-toolbar.png" alt="gifted-chat-ui-toolbar" border="0"></a>
+</p>
+
 <p align="center" >
    <a href="https://reactnative.gallery/FaridSafi/gifted-chat">
-    <img alt="react-native-gifted-chat" src="https://thumbs.gfycat.com/AbsoluteSadDobermanpinscher-size_restricted.gif" width="260" height="510" />
+    <img alt="react-native-gifted-chat" src="https://thumbs.gfycat.com/AbsoluteSadDobermanpinscher-size_restricted.gif" width="260" height="410" />
  </a>
 
 </p>
